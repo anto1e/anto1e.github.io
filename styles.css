@@ -128,7 +128,7 @@ header span{
 }
 
 .scrollbar{
-    display: flex;
+    display: inline-flex;
     flex-direction: row;
     float: left;
     width: auto;
